@@ -1,0 +1,13 @@
+package com.example.rimba;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RimbaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
